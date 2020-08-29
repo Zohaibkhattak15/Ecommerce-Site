@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family:serif;
+}
+
+.conxt-div{
+    background-color: black;
+}
+
+span{
+    color: coral;
+}
+
+button{
+    border: 1px solid coral;
+    background-color: white;
+    border-radius: .3rem;
+}
+
+button:hover{
+    background-color: coral;
+    transition: .3s;
+}

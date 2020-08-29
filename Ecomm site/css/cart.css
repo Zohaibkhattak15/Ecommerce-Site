@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family:serif;
+}
+
+.conxt-div{
+    background-color: black;
+}
+
+.cart{
+    margin: 2em 10em;
+}
+
+
+button{
+    border-radius: 2em;
+    padding: 1.5% 6%;
+    background-color: #D2691E;
+    border: none;
+    color: white;
+    text-align: center;
+    margin: 5% 0%;
+}
+
+button:hover{
+    background-color: black;
+    transition: .3s;
+}

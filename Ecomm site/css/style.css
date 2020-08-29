@@ -1,0 +1,95 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family:serif;
+}
+
+/* styling of header section */
+
+.bgcolor{
+    background-color: #FFE4E1;   /* background color setting */
+}
+
+.btnon{
+    border-radius: 2em;
+    padding: 1.5% 2.7%;
+    background-color: #D2691E;
+    border: none;
+    color: white;
+    text-align: center;
+    margin: 5% 0%;
+}
+
+.btnon:hover{
+    background-color: black;
+    transition: .3s;
+}
+.margin{
+    margin-top: 7em;
+}
+
+.title{
+    padding-bottom: .5em;
+}
+
+span{
+    color: coral;
+}
+
+
+/* styling of extensive products section */
+
+.design{
+    background-color: #FFE4E1;
+
+}
+
+.padding-row{
+    padding: 5em 0;
+}
+
+
+.margin-user{
+    padding: 5em 0em;
+}
+
+.quote-icon{
+    display: flex;
+    justify-content: center;
+    color: coral;
+    padding-top:.6em ;
+    
+}
+
+.images-radius{
+    border-radius: 50em;
+}
+
+.card-styling{
+    box-shadow: .2em .2em 1em   lightgray;
+}
+
+
+.buy-now{
+    border-radius: 2em;
+    padding: 4% 10%;
+    background-color: #D2691E;
+    border: none;
+    color: white;
+    text-align: center;
+    
+}
+
+.buy-now:hover{
+    background-color: black;
+    transition: .3s;
+}
+
+.div-cont {
+    background-color: black;
+}
+
+.conxt-div{
+    background-color: black;
+
+}
